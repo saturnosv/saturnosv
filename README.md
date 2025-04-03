@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saturnosv
+- 👋 Hi, I’m @luchouxc
 - 👀 I’m interested in Automation, UX/UI and Data
 - 🌱 I’m currently learning JS, Business intelligence and Design Thinking
 - 💞️ I’m looking to collaborate on Church Planting and Digital Experiences
